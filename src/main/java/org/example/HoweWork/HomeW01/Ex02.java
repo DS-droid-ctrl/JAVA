@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Ex02 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("zadanie1(n, scanner) = " + zadanie1(scanner));
+        System.out.println("Сумма положительных чисел = " + zadanie1(scanner));
     }
 
     /**
