@@ -9,6 +9,7 @@
 // /** Enter и пишем задание
 // fori + tab получаем for (int i = 0; i < ; i++) {}
 // count + .soutv выведет System.out.println("count = " + count)
+// resArr + .iter выдаст for (int i: resArr)
 
 package org.example.Seminars;
 
