@@ -1,6 +1,6 @@
 // ГОРЯЧИЕ КЛАВИШИ
 
-// psvm - быстрый набор public static void main(String[] args)
+// psvm или main - быстрый набор public static void main(String[] args)
 // sout - быстрый набор для System.out.println()
 // cntrl + a выделяем класс
 // cntrl + Alt + l формат документа
